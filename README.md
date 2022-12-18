@@ -11,3 +11,5 @@
 
 In this project we faces a challenge in the inital value of moves/temperature which indicates the number of moves to decrease the temperature , and the problem is that the number of moves is so huge when we deal with many cells like 200. We dealt with this problem by decreasing moves/temperature value by modifiying the equation. Another challnge we faced is the animation took a long time so it was not applicable except on small number of cells.
 
+In the updated verison, we increased the efficiency of our program and added codes to get the graphs and estimated time of the run time of the program
+
